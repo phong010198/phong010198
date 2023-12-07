@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phong010198
 - 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on developing Flutter or native Android apps
 - 📫 How to reach me ...
 
 <!---
